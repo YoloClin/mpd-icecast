@@ -1,6 +1,6 @@
 <icecast>
     <location>Docker Container</location>
-    <admin>icemaster@localhost</admin>
+    <admin>clin@github.com/yoloClin</admin>
 
     <limits>
         <clients>10</clients>
